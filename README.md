@@ -16,9 +16,9 @@
 |----------------------------|-----------------------------------|
 | ![Public site](docs/1.png) | ![Investor dashboard](docs/4.png) |
 
-| Public site          | Broker portal                |
-|----------------------|------------------------------|
-| ![Admin](docs/2.png) | ![Broker portal](docs/3.png) |
+| Public site           | Broker portal                |
+|-----------------------|------------------------------|
+| ![Admin](docs/22.png) | ![Broker portal](docs/3.png) |
 
 ---
 
